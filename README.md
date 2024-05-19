@@ -1,0 +1,4 @@
+- **Word Selection**: Randomly selects a word from a predefined list.
+- **User Interaction**: Allows the player to input their guesses.
+- **Game Logic**: Tracks correct and incorrect guesses, and determines win/lose conditions.
+- **Display**: Shows the current state of the word with correctly guessed letters and remaining attempts.
